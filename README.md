@@ -15,7 +15,7 @@
 
 ## 💻 Tecnologías y Habilidades
 
-- GIS (Sistemas de Información Geográfica) en ArcGIS, Qgis, AutoCAD
+- GIS (Sistemas de Información Geográfica) en ArcGIS, QGIS, AutoCAD
 - Programación en lenguaje R
 - Análisis Espacial y Modelado
 - Planificación y Gestión Territorial
@@ -25,6 +25,6 @@
 
 ## 📫 ¿Cómo contactarme?
 
-¡Estoy siempre abierto a la colaboración y la conversación! No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/marlonraymondi/).
+¡Estoy siempre abierto a la colaboración y la conversación! No dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/marlonraymondi/) o [WhatsApp](https://wa.me/51987594987).
 
 ¡Gracias por visitar mi perfil! Espero que encuentres interesantes mis proyectos y contribuciones.

@@ -1,6 +1,4 @@
-![Portada](https://media.licdn.com/dms/image/D4E16AQG1KdXao8ntAw/profile-displaybackgroundimage-shrink_350_1400/0/1701569301326?e=1707350400&v=beta&t=mAX_e62Brv6vC1_JlmoioYk3yE4zp-VVH-2fOULpNnQ)
-
-
+![Mi portada de GitHub](https://media.licdn.com/dms/image/D4E16AQG1KdXao8ntAw/profile-displaybackgroundimage-shrink_350_1400/0/1701569301326?e=1707350400&v=beta&t=mAX_e62Brv6vC1_JlmoioYk3yE4zp-VVH-2fOULpNnQ)
 
 # Bienvenido a mi perfil de GitHub 👋
 

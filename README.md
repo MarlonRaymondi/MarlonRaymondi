@@ -1,4 +1,4 @@
-![Mi portada de GitHub]([https://www.dropbox.com/scl/fi/fkt24q589s1fazh7n75xu/geo.marlonraymondi-unmsm.edu.pe-5.png?rlkey=pfuyozpfl75nr0abei671xloc&dl=1](https://www.dropbox.com/scl/fi/fkt24q589s1fazh7n75xu/geo.marlonraymondi-unmsm.edu.pe-5.png?rlkey=pfuyozpfl75nr0abei671xloc&dl=1))
+![Mi portada de GitHub]([https://raw.githubusercontent.com/MarlonRaymondi/MarlonRaymondi/main/portada.png)
 
 # Bienvenido a mi perfil de GitHub 👋
 

@@ -1,4 +1,4 @@
-![Mi portada de GitHub]([https://raw.githubusercontent.com/MarlonRaymondi/MarlonRaymondi/main/portada.png)
+![Mi portada de GitHub](https://raw.githubusercontent.com/MarlonRaymondi/MarlonRaymondi/main/portada.png)
 
 # Bienvenido a mi perfil de GitHub 👋
 
